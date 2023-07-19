@@ -1,0 +1,45 @@
+.card {
+    background-color: #fff;
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ3ZDA2NWUzNzc2NjllYjBiYzljYzY1MDMxODk4ZGM5Y2RhNWYzZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WFmjWifrj9DJ50YaXj/giphy.gif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 35%;
+    width: 140px;
+    height: 140px;
+  }
+  
+  .card2 {
+    background-color: #fff;
+    background-image: url(https://pbs.twimg.com/media/Fs3-USsagAIQ-wm.jpg:large);
+    background-size: cover;
+    background-position: center;
+    border-radius: 35%;
+    width: 140px;
+    height: 140px;
+  }
+  .card3 {
+    background-color: #fff;
+    background-image: url(https://digiday.com/wp-content/uploads/sites/3/2023/01/twitter-flatline-digiday-gif.gif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 35%;
+    width: 140px;
+    height: 140px;
+  }
+.Head{
+font-size: 50px;
+font-weight: bold;
+line-height: 1.5;
+color: white;
+text-align: center;
+padding: 30px;
+
+}
+
+span{
+  color: rgb(226, 130, 218);
+  font-size: 30px;
+}
+h5{
+ font-size: 40px;
+}
